@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Store</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Store</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Adidas</title>
+      <link>http://localhost:1313/adidas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/adidas/</guid><media:content url="http://localhost:1313/adidas/IMG-20250117-WA0004_hu_81d37d646e0934c.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/adidas/IMG-20250117-WA0004_hu_81d37d646e0934c.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nike</title>
+      <link>http://localhost:1313/nike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nike/</guid><media:content url="http://localhost:1313/nike/IMG-20250117-WA0002_hu_25fe6bccd865e9ab.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/nike/IMG-20250117-WA0002_hu_25fe6bccd865e9ab.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Others</title>
+      <link>http://localhost:1313/otros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/otros/</guid><media:content url="http://localhost:1313/otros/IMG-20250109-WA0007_hu_e17f9ec4e42a181a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/otros/IMG-20250109-WA0007_hu_e17f9ec4e42a181a.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Pumas</title>
+      <link>http://localhost:1313/pumas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pumas/</guid><media:content url="http://localhost:1313/pumas/IMG-20250120-WA0004_hu_5bdd5c7442b6db5.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/pumas/IMG-20250120-WA0004_hu_5bdd5c7442b6db5.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

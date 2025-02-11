@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ropa on My Store</title>
+    <link>http://localhost:1313/categories/ropa/</link>
+    <description>Recent content in Ropa on My Store</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ropa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accesorios</title>
+      <link>http://localhost:1313/accesorios/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/accesorios/</guid><media:content url="http://localhost:1313/accesorios/zxcv_hu_c84d0b8d8ceecec3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/accesorios/zxcv_hu_c84d0b8d8ceecec3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Calzado</title>
+      <link>http://localhost:1313/calzado/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/calzado/</guid><media:content url="http://localhost:1313/calzado/ghjk_hu_75591374cb660005.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/calzado/ghjk_hu_75591374cb660005.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ropa</title>
+      <link>http://localhost:1313/ropa/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ropa/</guid><media:content url="http://localhost:1313/ropa/feature_hu_797efd535ee0e280.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/ropa/feature_hu_797efd535ee0e280.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Suplementos</title>
+      <link>http://localhost:1313/suplements/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/suplements/</guid><media:content url="http://localhost:1313/suplements/qwer_hu_3d69f6ef13c6d770.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/suplements/qwer_hu_3d69f6ef13c6d770.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+baseURL = 'https://my-store.org/'
+languageCode = 'en-us'
+title = 'My Store'
+theme = 'gallery'
+[params]
+    [params.socialIcons]
+        facebook = "https://www.facebook.com/"
+        instagram = "https://www.instagram.com/puppylover08582"
+        github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+        youtube = "https://www.youtube.com/"
+        email = "mailto:user@example.com"
+        linkedin = "https://linkedin.com/"
